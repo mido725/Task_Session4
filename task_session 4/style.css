@@ -1,0 +1,68 @@
+#home{
+    margin-top: 15%;
+    margin-left: 50%;
+
+transform: translate(-15%,-50%);
+font-family: "Raleway", Arial, sans-serif;
+color: #666666;
+letter-spacing: 6px;
+}
+.photo{
+    font-size: 20px;
+}
+.john{
+    font-weight: bold;
+    font-size: 24px;
+    margin-left: 40px;
+    
+}
+nav ul{
+    margin-left: 37%;
+}
+nav ul li{
+float: left;
+list-style: none;
+height: 10%;
+padding: 10px 15px 10px 15px;
+border: 1px solid #e0e0e0;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #7f7f7f;
+}
+
+section{
+    margin-top: 15%;
+    margin-left: 10%;
+}
+div{
+    width: 45%;
+    float: left;
+}
+
+.right img{
+    width: 100%;
+    padding-bottom: 10px;
+    padding-left: 2%;
+    display: block;
+    
+}
+.left img{
+    width: 100%;
+    padding-bottom: 10px;
+    display: block;
+    
+}
+footer{
+    clear: both;
+    color: rgb(0, 0, 0);
+    background-color: rgb(241, 241, 241) ;
+    padding-top: 70px ;
+    padding-bottom: 70px;
+    text-align: center;
+    font-family: "Raleway", Arial, sans-serif;
+   
+}
+
+
+
